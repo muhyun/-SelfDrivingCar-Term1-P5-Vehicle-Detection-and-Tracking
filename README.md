@@ -85,7 +85,7 @@ Ultimately I searched on 4 scales (0.75, 1, 1.5, and 2) using YCrCb 3-channel HO
 
 Here's a [link to my video result](./project_video-result.mp4)
 
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://youtu.be/iQEmfnoFxZI)
+[![Alt text for your video](https://img.youtube.com/vi/iQEmfnoFxZI/0.jpg)](https://youtu.be/iQEmfnoFxZI)
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
 
